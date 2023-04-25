@@ -1,0 +1,22 @@
+install python 3.7.0 and i did all settings inside hello-eth ethereum tool
+
+
+install node-v12.13.1-64.msi software 
+then install below packages
+
+i did all setup just follow screens shots
+
+open command prompt and execute beloww commands to install packages
+and then follow screen shots to run code
+
+pip install web3==4.7.2
+pip install numpy==1.19.2
+pip install Django==2.1.7
+
+
+go inside 'EVoting' folder and click .bat file to start servers
+and then run code
+
+
+
+
